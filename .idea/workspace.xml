@@ -19,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,9 +35,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="296" y="5" key="CommitChangelistDialog2" timestamp="1585487797399">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="296" y="5" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585487797399" />
     <state x="507" y="302" key="Github.ShareDialog" timestamp="1585487730976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="507" y="302" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1585487730976" />
+    <state x="434" y="114" key="Github.UntrackedFilesDialog" timestamp="1585487801282">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="434" y="114" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1585487801282" />
   </component>
 </project>
