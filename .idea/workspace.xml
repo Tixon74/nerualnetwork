@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a3a387b-d644-47b1-8bb9-5fb274461195" name="Default Changelist" comment="Tixon">
+    <list default="true" id="6a3a387b-d644-47b1-8bb9-5fb274461195" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Nerualnetwork_1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nerualnetwork_1/main.py" afterDir="false" />
     </list>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585487867181</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tixon">
+      <created>1585495633297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585495633297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -93,10 +100,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Tixon" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="296" y="5" key="CommitChangelistDialog2" timestamp="1585487922137">
+    <state x="296" y="5" key="CommitChangelistDialog2" timestamp="1585495600222">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="296" y="5" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585487922137" />
+    <state x="296" y="5" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585495600222" />
     <state x="507" y="302" key="Github.ShareDialog" timestamp="1585487730976">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -105,29 +112,29 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="434" y="114" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1585487801282" />
-    <state width="1257" height="206" key="GridCell.Tab.0.bottom" timestamp="1585492580651">
+    <state width="1257" height="166" key="GridCell.Tab.0.bottom" timestamp="1585504785190">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="206" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585492580651" />
-    <state width="1257" height="206" key="GridCell.Tab.0.center" timestamp="1585492580650">
+    <state width="1257" height="166" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585504785190" />
+    <state width="1257" height="166" key="GridCell.Tab.0.center" timestamp="1585504785190">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="206" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585492580650" />
-    <state width="1257" height="206" key="GridCell.Tab.0.left" timestamp="1585492580648">
+    <state width="1257" height="166" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585504785190" />
+    <state width="1257" height="166" key="GridCell.Tab.0.left" timestamp="1585504785190">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="206" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585492580648" />
-    <state width="1257" height="206" key="GridCell.Tab.0.right" timestamp="1585492580650">
+    <state width="1257" height="166" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585504785190" />
+    <state width="1257" height="166" key="GridCell.Tab.0.right" timestamp="1585504785190">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="206" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585492580650" />
+    <state width="1257" height="166" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585504785190" />
     <state x="141" y="51" key="SettingsEditor" timestamp="1585489292283">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="141" y="51" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1585489292283" />
-    <state x="232" y="142" key="Vcs.Push.Dialog.v2" timestamp="1585487870867">
+    <state x="232" y="142" key="Vcs.Push.Dialog.v2" timestamp="1585504797807">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="232" y="142" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585487870867" />
+    <state x="232" y="142" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585504797807" />
   </component>
 </project>

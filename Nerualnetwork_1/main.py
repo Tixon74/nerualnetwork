@@ -1,23 +1,26 @@
 import numpy as np
 
+# Создание активационной функции
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
+# создание тренировочных входных данных
 training_inputs = np.array([[0, 0, 1],
                             [1, 1, 1],
                             [1, 0, 1],
-                            [0, 1, 1]])
+                            [1, 1, 0]])
 
-training_outputs = np.array([[0, 1, 1, 0]]).T
+# создание правильных ответов на тренировочные входные данные
+training_outputs = np.array([[0, 1, 1, 1]]).T
 
-np.random.seed(1)
-
+# рандомный выбор вессов
 synaptic_weights = 2 * np.random.random((3, 1)) - 1
 
-print("веса:")
+# выводим рандомные веса
+print("рандомные веса:")
 print(synaptic_weights)
 
-# метод обратного распространения ошибки
+# метод обратного распространения ошибки (обучение нейронной сети)
 for i in range(20000):
     input_layer = training_inputs
     outputs = sigmoid( np.dot(input_layer, synaptic_weights))
@@ -27,14 +30,17 @@ for i in range(20000):
 
     synaptic_weights += adjustments
 
-    print("веса после обучения:")
-    print(synaptic_weights)
+# выводим результаты обучения
+print("веса после обучения:")
+print(synaptic_weights)
 
-    print("результат после обучения:")
-    print(outputs)
+print("результат после обучения:")
+print(outputs)
 
-    new_inputs = np.array([1, 1, 0]) # новая ситуация
-    outputs = sigmoid( np.dot( new_inputs, synaptic_weights))
+# создаём не стандартный случай(случай которого не было при обучении)
+new_inputs = np.array([0, 1, 1]) # новая ситуация
+outputs = sigmoid( np.dot( new_inputs, synaptic_weights))
 
-    print("Новая ситуация:")
-    print(outputs)
+# выводим результат нестандартного случая
+print("Новая ситуация:")
+print(outputs)
